@@ -9,7 +9,7 @@ Vietnam
 ```
 I build systems and try crazy things to see what happens.
 ```
-```
+
 interests   computer engineering · ai · software engineering 
 languages   c · cpp · assembly · python
 tools       fasm · x64dbg · ida
