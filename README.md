@@ -1,22 +1,21 @@
 # Ducx
 
 ```bash
-$ whoami
-
 Mạnh Đức (Ducx)
-ROBOT student · developer · crazy things trier
+ROBOT student-crazy things trier
 Vietnam
 ```
-I build systems and try crazy things to see what happens.
+I become perverted when I'm concentrating on work. 🤪
+```
+Crazy in thinking 🤓
+Crazy in experimenting 🤓
+Crazy in understanding 🤓
 ```
 
-interests   computer engineering · ai · software engineering 
-languages   c · cpp · assembly · python
-tools       fasm · x64dbg · ida
+ ```
+languages   c · cpp · assembly · python 
+tools       fasm · proteus ·SolidWorks·Robotstudio
 ```
-
-Outside the terminal: 🐈 cats · 🛠️ play technology · 🎮 game
-```
-See. Try. Fail. Retry. Understand.
+I didn't know anything, but I still tried.👀👀👀
 
 
