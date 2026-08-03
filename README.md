@@ -18,7 +18,8 @@ Crazy in understanding 🤓
 ![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Fasm](https://img.shields.io/badge/fasm-005691?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-```
+
 I didn't know anything, but I still tried.👀👀👀
+
 
 
