@@ -7,9 +7,7 @@ Mạnh Đức (Ducx)
 
 I become perverted when I'm concentrating on work. 🤪
 
-<p align="center">
-  <img src="https://github.com/rg3915/rg3915/blob/main/fcf7fd0c619bb87706533079240915f3.gif" alt="Developer Coding GIF" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/rg3915/rg3915/main/fcf7fd0c619bb87706533079240915f3.gif" alt="Coding GIF" width="300">
 Crazy in thinking 🤓
 Crazy in experimenting 🤓
 Crazy in understanding 🤓                      
