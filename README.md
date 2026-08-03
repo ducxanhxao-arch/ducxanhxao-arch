@@ -7,8 +7,9 @@ Mạnh Đức (Ducx)
 ```
 I become perverted when I'm concentrating on work. 🤪
 
-![Lập trình viên gõ phím siêu tốc]([https://storage.googleapis.com/gen-at-media/2/8/5/4/image_2.png](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNsZXl5cjNmdnBzdTE5ZDBtem5iMGFqamN3eDA4ZHNyd2pmNmVvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MGdfeiKtEiEPS/giphy.gif))
-```
+<p align="center">
+  <img src="https://github.com/Mitrayan93/Mitrayan93/blob/main/Linkedin%20Banner.gif?raw=true" alt="Developer Coding GIF" width="100%">
+</p>
 Crazy in thinking 🤓
 Crazy in experimenting 🤓
 Crazy in understanding 🤓                      
