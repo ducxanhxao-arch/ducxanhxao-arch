@@ -1,10 +1,10 @@
 # Ducx
-```Hi, I'm Shashwat 👋
-Robotics and artificial intelligence engineering students
+Im Robotics and artificial intelligence engineering students
 
-```bash
+```
 Mạnh Đức (Ducx)
 ```
+
 I become perverted when I'm concentrating on work. 🤪
 
 <p align="center">
@@ -13,7 +13,7 @@ I become perverted when I'm concentrating on work. 🤪
 Crazy in thinking 🤓
 Crazy in experimenting 🤓
 Crazy in understanding 🤓                      
-```
+
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
