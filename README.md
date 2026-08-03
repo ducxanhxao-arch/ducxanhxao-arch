@@ -1,16 +1,15 @@
-## Hi there 👋
+# 0xDucX
 
-<!--
-**ducxanhxao-arch/ducxanhxao-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
 
-Here are some ideas to get you started:
+DucX
+ROBOT student · developer · crazy things trier
+Vietnam
+I build systems and try crazy things to see what happens.
+interests   computer engineering · ai · software engineering
+languages   c · cpp · assembly · python
+tools       fasm · x64dbg · ida
+Outside the terminal: 🐈 cats · 🛠️ play technology · 🎮 game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+See. Try. Fail. Retry. Understand.
