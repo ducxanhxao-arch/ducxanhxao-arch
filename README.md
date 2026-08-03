@@ -1,4 +1,4 @@
-# 0xDucx
+# Ducx
 
 ```bash
 $ whoami
